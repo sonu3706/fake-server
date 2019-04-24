@@ -1,1 +1,47 @@
 
+"jobs":[
+  { "jobId": "81a7fc14-66ab-11e9-a923-1681be663d3e",
+    "jobTitle": "Software engineer- Java",
+    "jobDescription": "Relevant professional experience using Java as programming language [Hands on Coding]\n Experience with RESTful micro service architecture\n  Experience with SQL databases\nComfort with Agile operating models\n Experience with relational (Oracle) and non relational databases (MongoDB, Hadoop, etc)",
+    "skills": [
+        "Spring boot",
+        "Angular",
+        "Java 8 and above",
+        "Mongo"
+    ],
+    "roles": [
+        "creating backend",
+        "writing rest APIS",
+        "team collaborations"
+    ],
+    "education": "BE-BTech",
+    "jobType": "Full-Time",
+    "salaryRange": "Male",
+    "experienceRange": "3-5 years",
+    "jobStatus": "Active",
+    "jobPostedBy": "chandan@gmail.com"
+},
+  
+  {"jobId": "81a7fe8a-66ab-11e9-a923-1681be663d3e",
+    "jobTitle": "Software engineer- Java",
+    "jobDescription": "Relevant professional experience using Java as programming language [Hands on Coding]\n Experience with RESTful micro service architecture\n  Experience with SQL databases\nComfort with Agile operating models\n Experience with relational (Oracle) and non relational databases (MongoDB, Hadoop, etc)",
+    "skills": [
+        "Spring boot",
+        "Angular",
+        "Java 8 and above",
+        "Mongo"
+    ],
+    "roles": [
+        "creating backend",
+        "writing rest APIS",
+        "team collaborations"
+    ],
+    "education": "BE-BTech",
+    "jobType": "Full-Time",
+    "salaryRange": "Male",
+    "experienceRange": "3-5 years",
+    "jobStatus": "Active",
+    "jobPostedBy": "chandan@gmail.com"
+}
+        
+       ]
