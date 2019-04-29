@@ -47,7 +47,7 @@
        ],
   "users": [
   {
-    "userId": "swamyj.smartyai@gmail.com",
+    "id": "swamyj.smartyai@gmail.com",
     "firstName": "Swamy",
     "lastName": "J",
     "password": "123456",
