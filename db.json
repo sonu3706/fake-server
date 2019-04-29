@@ -44,5 +44,16 @@
     "jobPostedBy": "chandan@gmail.com"
 }
         
-       ]
+       ],
+  "users": [
+  {
+    "userId": "chandanmishra3706@gmail.com",
+    "firstName": "Chandan",
+    "lastName": "Mishra",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "type": "RECURITER"
+}
+  
+  ]
 }
