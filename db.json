@@ -47,12 +47,20 @@
        ],
   "users": [
   {
+    "userId": "swamyj.smartyai@gmail.com",
+    "firstName": "Swamy",
+    "lastName": "J",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "type": "RECURITER"
+},
+     {
     "userId": "chandanmishra3706@gmail.com",
     "firstName": "Chandan",
     "lastName": "Mishra",
     "password": "123456",
     "confirmPassword": "123456",
-    "type": "RECURITER"
+    "type": "CANDIDATE"
 }
   
   ]
