@@ -145,9 +145,7 @@
 		}
 	],
 	"documents" : [ ],
-	"status" : "ACTIVE",
-	"type" : "CANDIDATE",
-	"_class" : "com.smartyai.quicktalent.model.Candidate"
+	"status" : "ACTIVE"
 },
     
     {
@@ -203,8 +201,7 @@
 	],
 	"documents" : [ ],
 	"status" : "ACTIVE",
-	"type" : "CANDIDATE",
-	"_class" : "com.smartyai.quicktalent.model.Candidate"
+	"type" : "CANDIDATE"
 }
 
 
