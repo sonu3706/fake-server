@@ -61,7 +61,35 @@
     "password": "123456",
     "confirmPassword": "123456",
     "type": "CANDIDATE"
+},
+    {
+    "userId": "mishrasonu3706@gmail.com",
+    "firstName": "Sonu",
+    "lastName": "Mishra",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "type": "RECURITER"
 }
   
+  ],
+  "recruiters":[
+  {
+    "recruiterId": "swamyj.smartyai@gmail.com",
+    "firstName": "Swami",
+    "lastName": "J",
+    "organisationId": "Stackroute",
+    "designation": "HR-HEAD",
+    "department": "IT",
+    "status": "Active"
+},
+    {
+    "recruiterId": "mishrasonu3706@gmail.com",
+    "firstName": "Sonu",
+    "lastName": "Mishra",
+    "organisationId": "Stackroute",
+    "designation": "Assistant Manager",
+    "department": "IT",
+    "status": "Active"
+}
   ]
 }
