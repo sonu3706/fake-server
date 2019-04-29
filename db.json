@@ -91,5 +91,122 @@
     "department": "IT",
     "status": "Active"
 }
+  ],
+  "candidates":[
+  {
+	"_id" : "chandanmishra3706@gmail.com",
+	"firstName" : "Chandan",
+	"lastName" : "Mishra",
+	"father_name" : "Mohan Mishra",
+	"contact" : {
+		"_id" : "56aa2962-5c7f-414e-ac81-50d8a933c36b",
+		"primaryEmail" : "smccuish0@princeton.edu",
+		"secondaryEmail" : "kramstead0@mac.com",
+		"primaryMobileNumber" : "725-191-2665",
+		"alternateMobileNumber" : "446-473-6762",
+		"landLinenumber" : "985-671-9897"
+	},
+	"bank" : {
+		"_id" : "46df6ddb-7d45-4989-8f41-743625e54759",
+		"accountNumber" : "8782820368",
+		"bankName" : "HDFC bank",
+		"accountType" : "salary",
+		"ifscCode" : "UTIB000123",
+		"bankAddress" : {
+			"_id" : "1b042d70-703d-4409-bc40-dc667b04b656",
+			"addressType" : "3466241626",
+			"addressFieldOne" : "Moland",
+			"addressFieldTwo" : "73051 Esch Plaza",
+			"landMark" : "Daystar",
+			"city" : "Ruokolahti",
+			"country" : "Finland",
+			"pinCode" : "56101"
+		},
+		"status" : true
+	},
+	"addresses" : [
+		{
+			"_id" : "3aee32bb-bcfa-480b-b2d4-af481ea2e3a3",
+			"addressType" : "Permanent",
+			"addressFieldOne" : "Green Ridge",
+			"addressFieldTwo" : "31 Schurz Road",
+			"landMark" : "Mcbride",
+			"city" : "Makariv",
+			"country" : "Ukraine"
+		},
+		{
+			"_id" : "200761e9-1d4c-4bc5-acc2-22c8ef2fdae1",
+			"addressType" : "Secondary",
+			"addressFieldOne" : "Melody",
+			"addressFieldTwo" : "239 Stoughton Road",
+			"landMark" : "Bartelt",
+			"city" : "Puerto de Nutrias",
+			"country" : "Venezuela"
+		}
+	],
+	"documents" : [ ],
+	"status" : "ACTIVE",
+	"type" : "CANDIDATE",
+	"_class" : "com.smartyai.quicktalent.model.Candidate"
+},
+    
+    {
+	"_id" : "mishrasonu3706@gmail.com",
+	"firstName" : "Sonu",
+	"lastName" : "Mishra",
+	"father_name" : "Mohan Mishra",
+	"contact" : {
+		"_id" : "56aa2962-5c7f-414e-ac81-50d8a933c36b",
+		"primaryEmail" : "smccuish0@princeton.edu",
+		"secondaryEmail" : "kramstead0@mac.com",
+		"primaryMobileNumber" : "725-191-2665",
+		"alternateMobileNumber" : "446-473-6762",
+		"landLinenumber" : "985-671-9897"
+	},
+	"bank" : {
+		"_id" : "46df6ddb-7d45-4989-8f41-743625e54759",
+		"accountNumber" : "8782820368",
+		"bankName" : "HDFC bank",
+		"accountType" : "salary",
+		"ifscCode" : "UTIB000123",
+		"bankAddress" : {
+			"_id" : "1b042d70-703d-4409-bc40-dc667b04b656",
+			"addressType" : "3466241626",
+			"addressFieldOne" : "Moland",
+			"addressFieldTwo" : "73051 Esch Plaza",
+			"landMark" : "Daystar",
+			"city" : "Ruokolahti",
+			"country" : "Finland",
+			"pinCode" : "56101"
+		},
+		"status" : true
+	},
+	"addresses" : [
+		{
+			"_id" : "3aee32bb-bcfa-480b-b2d4-af481ea2e3a3",
+			"addressType" : "Permanent",
+			"addressFieldOne" : "Green Ridge",
+			"addressFieldTwo" : "31 Schurz Road",
+			"landMark" : "Mcbride",
+			"city" : "Makariv",
+			"country" : "Ukraine"
+		},
+		{
+			"_id" : "200761e9-1d4c-4bc5-acc2-22c8ef2fdae1",
+			"addressType" : "Secondary",
+			"addressFieldOne" : "Melody",
+			"addressFieldTwo" : "239 Stoughton Road",
+			"landMark" : "Bartelt",
+			"city" : "Puerto de Nutrias",
+			"country" : "Venezuela"
+		}
+	],
+	"documents" : [ ],
+	"status" : "ACTIVE",
+	"type" : "CANDIDATE",
+	"_class" : "com.smartyai.quicktalent.model.Candidate"
+}
+
+
   ]
 }
