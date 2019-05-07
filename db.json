@@ -63,7 +63,7 @@
     "type": "CANDIDATE"
 },
     {
-    "userId": "mishrasonu3706@gmail.com",
+    "id": "mishrasonu3706@gmail.com",
     "firstName": "Sonu",
     "lastName": "Mishra",
     "password": "123456",
@@ -74,7 +74,7 @@
   ],
   "recruiters":[
   {
-    "recruiterId": "swamyj.smartyai@gmail.com",
+    "id": "swamyj.smartyai@gmail.com",
     "firstName": "Swami",
     "lastName": "J",
     "organisationId": "Stackroute",
@@ -83,7 +83,7 @@
     "status": "Active"
 },
     {
-    "recruiterId": "mishrasonu3706@gmail.com",
+    "id": "mishrasonu3706@gmail.com",
     "firstName": "Sonu",
     "lastName": "Mishra",
     "organisationId": "Stackroute",
@@ -94,7 +94,7 @@
   ],
   "candidates":[
   {
-	"_id" : "chandanmishra3706@gmail.com",
+	"id" : "chandanmishra3706@gmail.com",
 	"firstName" : "Chandan",
 	"lastName" : "Mishra",
 	"father_name" : "Mohan Mishra",
@@ -149,7 +149,7 @@
 },
     
     {
-	"_id" : "mishrasonu3706@gmail.com",
+	"id" : "mishrasonu3706@gmail.com",
 	"firstName" : "Sonu",
 	"lastName" : "Mishra",
 	"father_name" : "Mohan Mishra",
